@@ -1,0 +1,4 @@
+algorithm,n,timeMs,comparisons,swaps,allocations,maxDepth
+MergeSort-Random,100,0,055,554,575,1,5
+MergeSort-Sorted,100,0,008,99,0,1,5
+MergeSort-Reverse,100,0,030,460,748,1,5
