@@ -1,5 +1,7 @@
 # Assignment 3: City Transportation Network Optimization
 
+**Date**: October 26, 2025
+
 ## Overview
 
 This project implements **Prim's** and **Kruskal's** algorithms to optimize a city's transportation network by finding the Minimum Spanning Tree (MST). The goal is to connect all city districts with the minimum possible construction cost.
@@ -161,4 +163,3 @@ The project includes two test graphs:
 - **Graph 2**: 4 vertices, 5 edges
 
 Both graphs successfully produce identical MST costs from both algorithms, validating correctness.
-

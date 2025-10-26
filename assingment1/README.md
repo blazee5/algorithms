@@ -1,6 +1,5 @@
 # Algorithms Assignment 1 Report
 
-
 ## Learning Goals
 
 • Implement classic divide-and-conquer algorithms with safe recursion patterns
